@@ -10,5 +10,6 @@ Fetch API to communicate with the OpenWeatherMap API
 
 ## Installation & Usage
 1. download zip file of project and unzip it in your pc.
-2. open folder of project by VS Code than run this : node server.js in terminal.
-3. open index.html and test the website.
+2. install node.js for project.
+3. open folder of project by VS Code than run this : node server.js in terminal.
+4. open index.html and test the website.
